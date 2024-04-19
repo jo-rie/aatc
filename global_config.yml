@@ -1,0 +1,6 @@
+plot_path: 'plots'
+raw_data_path: 'data_raw'
+data_path: 'data'
+
+gr: '#DDEBD7'
+red: '#EAD9D4'
