@@ -1,4 +1,4 @@
-# Accompanying code for the paper "The assessment of the ability of measurements, nowcasts, and forecasts to track changes"
+# Accompanying code for the paper "On the assessment of the ability of measurements, nowcasts, and forecasts to track changes"
 
 The main files for the assessment of the ability to track changes are in the `aatc.py` file.
 
